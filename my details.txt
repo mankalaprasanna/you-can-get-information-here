@@ -1,0 +1,3 @@
+name : redme note 9 pro
+verison : 12.0
+ram :4.0
